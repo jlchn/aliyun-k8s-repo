@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-minikube/etcd:3.3.10
+FROM gcr.io/google_containers/etcd:3.3.10
