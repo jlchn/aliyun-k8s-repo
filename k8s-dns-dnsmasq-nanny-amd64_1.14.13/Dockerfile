@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64_1.14.13
+FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.13
