@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/storage-provisioner_v1.8.1
+FROM gcr.io/google_containers/storage-provisioner:v1.8.1
